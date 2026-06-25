@@ -1,0 +1,2 @@
+# Coherent-Quantum-Reception-of-the-Cosmic-Microwave-Background-A-JPA-Based-Proposal-at-160GHz
+First proposal for quantum state tomography of the CMB at 160 GHz using a Josephson parametric amplifier at 20 mK. Reconstructing the Wigner function and measuring photon bunching g(2)(0)=2 of primordial photons. An open research roadmap bridging cQED and observational cosmology. DOI: 10.5281/zenodo.20836974
